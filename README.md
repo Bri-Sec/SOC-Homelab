@@ -26,10 +26,30 @@ The Detection Lab project involved building a controlled home lab environment us
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> — for ingesting, visualizing, and analyzing security logs. <br>
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+![image](https://github.com/user-attachments/assets/6dea08dc-95b0-4643-971b-f1afce0ce48c) <br>
+*Ref 1: Splunk installed on Windows VM*
 
-Example below.
+![image](https://github.com/user-attachments/assets/097fa447-1a22-46c2-a6ed-a9de7b71fa86) <br>
+*Ref 2: Create Reverse tcp malware on Kali VM using Msfvenom*
 
-*Ref 1: Network Diagram*
+![image](https://github.com/user-attachments/assets/616090ad-586e-4cb6-ab75-c71ab0a6088d) <br>
+*Ref 3: Process with the same name as suspicious file is running after opening the file*
+
+![image](https://github.com/user-attachments/assets/5676a4d2-0dae-431f-aeda-f5f31fa45853) <br>
+*Ref 4: Connection to the IP-address with same PID is also found using netstat*
+
+![image](https://github.com/user-attachments/assets/66559d57-a78d-4900-aec4-5d8d90eff3bb) <br>
+*Ref 5: Access and enumeration on Kali machine*
+
+![image](https://github.com/user-attachments/assets/ab4d9439-255c-4da0-8028-d74d9ee450a0) <br>
+*Ref 6: 7 RDP events logged in splunk*
+
+![image](https://github.com/user-attachments/assets/b2afdc92-afcb-4331-b062-d0c81b60913b) <br>
+*Ref 7: Investigating Process Guid of one event shows commands executed*
+
+
+
+
+
+
